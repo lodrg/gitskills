@@ -7,3 +7,5 @@ happy new year
 Creating a new branch is quick and simple.
 
 >>>>>>get new branch
+>>>>>>
+>>>>>>git is free software
